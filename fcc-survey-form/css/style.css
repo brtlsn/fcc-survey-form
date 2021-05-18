@@ -1,0 +1,61 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background: rgb(238,227,174);
+    background: radial-gradient(circle, rgba(238,227,174,1) 0%, rgba(203,233,148,0.10406169303658963) 100%);
+    color:rgb(255, 255, 255);
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding-top: 5em;
+}
+
+#title {
+    color: black;
+}
+
+#description {
+    color: black;
+    font-weight: bold;
+}
+
+#survey-form {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+    border-style: solid;
+    color: black;
+    text-align: left;
+    padding: 2em;
+}
+
+#submit {
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: rgb(238,227,174);
+    background-color: radial-gradient(circle, rgba(238,227,174,1) 0%, rgba(203,233,148,0.10406169303658963) 100%);
+    min-width: 100px;
+    min-height: 40px;
+    border-color: black;
+    border-width: 2,5px;
+    
+}
+
+textarea {
+    width: 80%;
+    height: 5%;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    border-width: 2,5px;
+
+}
+
+p {
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+  }
+
